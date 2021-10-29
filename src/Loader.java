@@ -7,6 +7,7 @@ public class Loader {
         cat1.woof();
         System.out.printf("Вес кошки N1 после кормежки: %.2f %n", cat1.getWeight());
 
+
     }
 }
 
